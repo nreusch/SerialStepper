@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SerialStepperControl.exe" version="1.0.0.0" publicKeyToken="827e878eb51c021b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SerialStepperControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SerialStepperControl.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SerialStepperControl.exe" size="13272">
+      <assemblyIdentity name="SerialStepperControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+M6bEIYis37L7LJyobnHKrq8Wn280DSn6ebbdzZHRw8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SerialStepperControl.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-FRDJ9D1\Baws" issuerKeyHash="c523a1104c5c2e286564f1dc025d426413a4c747" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>EPC9AihmC2BdTYWW0WM592+sSa9RwWKzCW+8RFVAvYg=</DigestValue></Reference></SignedInfo><SignatureValue>cg/Ei2xe3Nr5PvyUqDENaGzUuBmtieqaubYyawl+PdicXDL13QwLNKv7Z6NyItQO2Ih0qn/IveSnnh4HMNtyHCoTYtPUyBdNFGQtToYoBhPlYeWvuuDaMPGzZ5kbwM/Ps5qEDGA/mgqKW6aJnS/Q3nin6bgY0h07q90yGRg5U18=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zpJ9h93dvLNetgDHVlmZa4Rvb+vc7TCa1KvIohG4VQPf5BZpGxW3Mf6v40rViPlLOmWPB+HKAysBPfAcXgDayxsYj87ZXjEUv1bX1GFX2Q9Lda1OpfOR9d03K3FLg1CcGfrZed9XQ9bLv2wzr/+mw9sQOK1jJUMSkf23pztPVpk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="88bd405544bc6f09b362c151af49ac6ff73963d196854d5d600b662802bdf010" Description="" Url=""><as:assemblyIdentity name="SerialStepperControl.exe" version="1.0.0.0" publicKeyToken="827e878eb51c021b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-FRDJ9D1\Baws</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MNhDKkQX+CM5QiiypAgGBcnPEKekU3LWFPYygwM3N9U=</DigestValue></Reference></SignedInfo><SignatureValue>yvcYt4JaUusYKCftf6nBI194S5udfxQGMVAH5kwA9N9dm41763k/aYPHDUPhed7RheVFJzGjGPjWosW611qGivmf8P0dKoTt75UOl4L5bb3oHReVh3vkhJ+KFia4SnJcpbWnJuHVjT4N3ttMEVgViCv1G91E8KtWoInLaGFC4GE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zpJ9h93dvLNetgDHVlmZa4Rvb+vc7TCa1KvIohG4VQPf5BZpGxW3Mf6v40rViPlLOmWPB+HKAysBPfAcXgDayxsYj87ZXjEUv1bX1GFX2Q9Lda1OpfOR9d03K3FLg1CcGfrZed9XQ9bLv2wzr/+mw9sQOK1jJUMSkf23pztPVpk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQX4B41uwtHbtKgEe7Uj+sdDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEYAUgBEAEoAOQBEADEAXABCAGEAdwBzMB4XDTE2MDExMDExNDYwNloXDTE3MDEwOTE3NDYwNlowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBGAFIARABKADkARAAxAFwAQgBhAHcAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzpJ9h93dvLNetgDHVlmZa4Rvb+vc7TCa1KvIohG4VQPf5BZpGxW3Mf6v40rViPlLOmWPB+HKAysBPfAcXgDayxsYj87ZXjEUv1bX1GFX2Q9Lda1OpfOR9d03K3FLg1CcGfrZed9XQ9bLv2wzr/+mw9sQOK1jJUMSkf23pztPVpkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQATKiAxptAuOSqt4DNqg/p8vSjDzbIT3QEmi6DmOKTHYPcFaNGsVX7Mk933cN7C4V8N52ZNZsmgry9JBFtwX5itjdNih1NhgxpCWG0flOFz6/gl+Ogl+2fM16HzXWRxRaO2MPZ0WRZngo8yYgvzMPbqW7fIAd723BlPg2Rtv+aouA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

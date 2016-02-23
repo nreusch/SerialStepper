@@ -1,0 +1,45 @@
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe.config
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.pdb
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.csprojResolveAssemblyReference.cache
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.Form1.resources
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.Properties.Resources.resources
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.csproj.GenerateResource.Cache
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.exe
+c:\users\baws\documents\visual studio 2015\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.pdb
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe.config
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.exe
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.pdb
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.pdb
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\mscorlib.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\System.Data.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\System.Transactions.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\System.EnterpriseServices.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\System.Web.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\System.Data.OracleClient.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\de\mscorlib.resources.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\normidna.nlp
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\normnfc.nlp
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\normnfd.nlp
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\normnfkc.nlp
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\normnfkd.nlp
+F:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\System.EnterpriseServices.Wrapper.dll
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.Form1.resources
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.Properties.Resources.resources
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\GenerateResource.read.1.tlog
+F:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe.config
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.exe
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.pdb
+E:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe
+E:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.pdb
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.csprojResolveAssemblyReference.cache
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.Form1.resources
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.Properties.Resources.resources
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.csproj.GenerateResource.Cache
+E:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.exe.manifest
+E:\Projects\SerialStepperControl\SerialStepperControl\bin\Debug\SerialStepperControl.application
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.exe.manifest
+E:\Projects\SerialStepperControl\SerialStepperControl\obj\Debug\SerialStepperControl.application
